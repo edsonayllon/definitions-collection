@@ -1,7 +1,9 @@
 ---
 author: Edson Ayllon
 category: informative
-tags: mathematics, computer science
+tags: 
+- mathematics 
+- computer science
 ---
 ## Designation xx-2020
 # Definitions Collection
