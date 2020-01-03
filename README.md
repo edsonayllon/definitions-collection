@@ -21,3 +21,4 @@ formative | Giving shape. Relating to development and growth.
 isomorphism | Having equal form. Two objects are considered equal if we reduce their definition to properties which are equal (ie. two lists of the same length). If we map an array to a new array, and can inversly map the new array back to the old array, these two arrays are isomporhic. Example: `bs = as.map(a => a*2)` & `as = bs.map(b => b/2)`, or `log exp x = x`, and `exp log x = x`. 
 scope | The extent covered.
 parameter space | The scope of all possible parameters within a model (such as a function). When the parameters are of a function, it's just called the domain (short for "domain of definition").
+designation | Giving an identity. A given title or role.
