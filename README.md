@@ -5,7 +5,7 @@ tags:
 - mathematics 
 - computer science
 ---
-## Designation Unspecified 
+## Resource xx-2020
 # Definitions Collection
 Collection of concepts and definitions of interest within mathematics and computer science as I discover them.
 
