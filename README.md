@@ -10,7 +10,7 @@ tags:
 Collection of concepts and definitions of interest within mathematics and computer science as I discover them.
 
 term | definition
---|--
+---:|--
 overloaded | When a label, such as a word or symbol, is used as a reference to multiple meanings or executions.
 fuzzing | The automated testing of inputs to discover vulnerabilities in mass.
 attestation | Proof/evidence provided by a witness.
