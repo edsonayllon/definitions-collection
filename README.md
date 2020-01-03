@@ -30,4 +30,4 @@ identity function | A function that returns its input. Examples: `f(x) = x`, `b 
 granularity | Relates to the number of pieces making a whole. As the number of components increases, so does the granularity.
 unidirectional | One way.
 bidirectional | Two way, usually in opposite directions.
-
+learning | The result of a process reached when behavior has changed.
