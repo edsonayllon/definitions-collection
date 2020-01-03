@@ -22,6 +22,7 @@ scope | The extent, or extent covered.
 coverage | The extent covered. Code coverage is the extent to which tests execute code written in a program.
 parameter space | The scope of all possible parameters within a model (such as a function). When the parameters are of a function, it's just called the domain (short for "domain of definition").
 designation | Giving an identity. A given title or role.
-Mapping | AKA map. When an object or structure (such as an array or sequence) is transformed to create a new object/structure via a function. Ie: `[1, 2, 3].map(n => n*2) == [2, 4, 6]`
+mapping | AKA map. When an object or structure (such as an array or sequence) is transformed to create a new object/structure via a function. Ie: `[1, 2, 3].map(n => n*2) == [2, 4, 6]`
 inverse mapping | A mapping where the function used to map is an inverse function.
+inverse function | A function whose inputs and outputs are the outputs and input, respectively, of another function. It's the reverse function of an existing function. 
 isomorphism | Having equal form. Two objects are considered equal if we reduce their definition to properties which are equal (ie. two lists of the same length). If we map an array to a new array, and can inversly map the new array back to the old array, these two arrays are isomporhic. Example: `bs = as.map(a => a*2)` & `as = bs.map(b => b/2)`, or `log exp x = x`, and `exp log x = x`. 
