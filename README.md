@@ -17,8 +17,11 @@ attestation | Proof/evidence of something.
 conjecture | Temporary conclusion on the basis of too little information. These are proposals, pending proof or disproof. 
 formative | Giving shape. Relating to development and growth.
 [formal reference](https://quod.lib.umich.edu/j/jep/3336451.0009.205?view=text;rgn=main) | A work from which a new work was derived from. Work is broadly used here, and can take the meaning of an equation, document, standard, algorithm, etc. The simplest example is a direct qoutation.
-[normative reference](https://www.iec.ch/standardsdev/resources/draftingpublications/directives/subdivision/normative_references.htm) | A required (mandatory) dependency of a new work. This dependency is externally held, existing on its own. Work, here, is broad as well, but often refers to documentation, such as specifications, procedures, and standards.
-isomorphism | Having equal form. Two objects are considered equal if we reduce their definition to properties which are equal (ie. two lists of the same length). If we map an array to a new array, and can inversly map the new array back to the old array, these two arrays are isomporhic. Example: `bs = as.map(a => a*2)` & `as = bs.map(b => b/2)`, or `log exp x = x`, and `exp log x = x`. 
-scope | The extent covered.
+[normative reference](https://www.iec.ch/standardsdev/resources/draftingpublications/directives/subdivision/normative_references.htm) | A required (mandatory) dependency of a new work. This dependency is externally held, existing on its own.
+scope | The extent, or extent covered.
+coverage | The extent covered. Code coverage is the extent to which tests execute code written in a program.
 parameter space | The scope of all possible parameters within a model (such as a function). When the parameters are of a function, it's just called the domain (short for "domain of definition").
 designation | Giving an identity. A given title or role.
+Mapping | AKA map. When an object or structure (such as an array or sequence) is transformed to create a new object/structure via a function. Ie: `[1, 2, 3].map(n => n*2) == [2, 4, 6]`
+inverse mapping | A mapping where the function used to map is an inverse function.
+isomorphism | Having equal form. Two objects are considered equal if we reduce their definition to properties which are equal (ie. two lists of the same length). If we map an array to a new array, and can inversly map the new array back to the old array, these two arrays are isomporhic. Example: `bs = as.map(a => a*2)` & `as = bs.map(b => b/2)`, or `log exp x = x`, and `exp log x = x`. 
