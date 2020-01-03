@@ -28,3 +28,4 @@ inverse function | A function whose inputs and outputs are the outputs and input
 isomorphism | Having equal form. Two objects are considered equal if we reduce their definition to properties which are equal (ie. two lists of the same length). If we map an array to a new array, and can inversly map the new array back to the old array, these two arrays are isomporhic. Example: `bs = as.map(a => a*2)` & `as = bs.map(b => b/2)`, or `log exp x = x`, and `exp log x = x`. 
 identity function | A function that returns its input. Examples: `f(x) = x`, `b = a.map(n -> {print(n); return n;}`
 granularity | Relates to the number of pieces making a whole. As the number of components increases, so does the granularity.
+bidirectional | Occuring or working in 2, usually opposite, directions.
