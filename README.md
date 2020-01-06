@@ -31,3 +31,4 @@ granularity | Relates to the number of pieces making a whole. As the number of c
 unidirectional | One way.
 bidirectional | Two way, usually in opposite directions.
 learning | The result of a process reached when behavior has changed.
+permanence | Quality of lasting forever, or a very long time
