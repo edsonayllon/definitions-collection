@@ -11,7 +11,7 @@ Collection of concepts and definitions of interest within mathematics and comput
 
 term | definition
 ---:|--
-overloaded | When a label, such as a word or symbol, is used as a reference to multiple meanings or executions.
+overloaded | When a label, such as a word or symbol, is used as a reference to multiple meanings or executions. Similar to how a synonym is when multiple labels reference the same meaning.
 fuzzing | The automated testing of inputs to discover vulnerabilities in mass.
 attestation | Proof/evidence provided by a witness.
 conjecture | Temporary conclusion on the basis of too little information. These are proposals, pending proof or disproof. 
