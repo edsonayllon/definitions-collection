@@ -4,8 +4,11 @@ category: informative
 tags: 
 - mathematics 
 - computer science
+status: complete and ongoing
+twitter: https://twitter.com/relativeread
 ---
-## Resource xx-2020
+
+## Research 8-2020
 # Definitions Collection
 Collection of concepts and definitions of interest within mathematics and computer science as I discover them.
 
