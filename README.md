@@ -35,3 +35,4 @@ unidirectional | One way.
 bidirectional | Two way, usually in opposite directions.
 learning | The result of a process reached when behavior has changed.
 permanence | Quality of lasting forever, or a very long time
+psychographic | Mental traits and behaviors characterstic of some population or group, similar to demographics.
