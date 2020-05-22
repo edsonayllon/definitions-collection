@@ -38,3 +38,4 @@ permanence | Quality of lasting forever, or a very long time
 psychographic | Mental traits and behaviors characterstic of some population or group, similar to demographics.
 perpetuity | The state of lasting forever. 
 interoperability | Exchanging/making use of information, namely within software.
+anthology | A collection of writings by different authors
