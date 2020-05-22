@@ -37,6 +37,6 @@ learning | The result of a process reached when behavior has changed.
 permanence | Quality of lasting forever, or a very long time
 psychographic | Mental traits and behaviors characterstic of some population or group, similar to demographics.
 perpetuity | The state of lasting forever. 
-interoperability | Exchanging/making use of information, namely within software.
+interoperability | Exchanging of/making use of information, namely within software.
 anthology | A collection of writings by different authors
 manifold | Many or various. In mathematics, a  "topological space that locally resembles Euclidean space near each point."
