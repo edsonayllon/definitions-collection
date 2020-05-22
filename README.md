@@ -39,3 +39,4 @@ psychographic | Mental traits and behaviors characterstic of some population or 
 perpetuity | The state of lasting forever. 
 interoperability | Exchanging/making use of information, namely within software.
 anthology | A collection of writings by different authors
+manifold | Many or various. In mathematics, a  "topological space that locally resembles Euclidean space near each point."
