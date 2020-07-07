@@ -40,3 +40,4 @@ perpetuity | The state of lasting forever.
 interoperability | Exchanging of/making use of information, namely within software.
 anthology | A collection of writings by different authors
 manifold | Many or various. In mathematics, a  "topological space that locally resembles Euclidean space near each point."
+Brownian motion | A particle moving randomly, not remembering its history. A random walk. 
